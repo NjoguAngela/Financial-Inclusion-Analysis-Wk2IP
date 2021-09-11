@@ -18,11 +18,18 @@
 ## Summary of Analysis
 #### The following is a summary of the steps that were undertaken during data analysis:
 1. Reading of the data
-2. Checking the data
-3. Tidying the dataset
-4. Univariate analysis
-5. Bivariate analysis
-6. Multivariate analysis 
+  ~ importing libraries
+  ~ loading data
+3. Checking the data
+  ~ displaying shape, head, tail of the datasets and the datatypes of the columns. 
+5. Tidying the dataset
+  ~ checking for null values
+  ~ dealing with null values
+  ~ detecting anomalies and outliers
+  ~ renaming of columns
+7. Univariate analysis
+8. Bivariate analysis
+9. Multivariate analysis 
 ## Technologies used
 #### A Jupyter notebook was used in the above analysis
 ## Setup
