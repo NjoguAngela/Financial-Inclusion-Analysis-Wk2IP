@@ -17,4 +17,16 @@
 
 ## Summary of Analysis
 #### The following is a summary of the steps that were undertaken during data analysis:
+1. Reading of the data
+2. Checking the data
+3. Tidying the dataset
+4. Univariate analysis
+5. Bivariate analysis
+6. Multivariate analysis 
+## Technologies used
+#### A Jupyter notebook was used in the above analysis
+## Setup
+#### The code is able to run successfully in any software that runs python language.
+## Contact Details
+#### If one wishes to contact me so as to offer up advise or debug or critic my code, feel free to do so at this github account.
 
